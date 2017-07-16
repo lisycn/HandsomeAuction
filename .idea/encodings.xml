@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/handsome/auction/action/AuctionAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/handsome/auction/action/UserAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/handsome/auction/test/BaseDaoTest.java" charset="GBK" />
+  </component>
+</project>
